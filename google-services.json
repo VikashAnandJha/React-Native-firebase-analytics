@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "114071980862",
+    "project_id": "dummy-analytics-21261",
+    "storage_bucket": "dummy-analytics-21261.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114071980862:android:48bc641d08500f03f0ba6f",
+        "android_client_info": {
+          "package_name": "com.vik.inn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6kMxGxq8jHZkRrsDs0ATIu71NwSb-Jeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
